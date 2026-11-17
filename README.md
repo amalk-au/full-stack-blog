@@ -10,6 +10,35 @@ A full-stack blogging application built with React, Node.js, Express, and Postgr
 
 > **Authentication notice:** If you see `No JWT Found in Local Storage`, you are not currently authenticated. Log in to access protected writer functionality.
 
+## Screenshots
+
+### Blog Reader
+
+![blog-reader-main](./documentation/screenshots/blog-reader-main.png)
+![blog-reader-view-post](./documentation/screenshots/blog-reader-view-post.png)
+
+### Authentication
+
+![sign-in](./documentation/screenshots/sign-in.png)
+![register-user](./documentation/screenshots/register-user.png)
+![json-web-token](./documentation/screenshots/json-web-token.png)
+
+### Blog Writer
+
+![blog-writer-main](./documentation/screenshots/blog-writer-main.png)
+![blog-writer-comments](./documentation/screenshots/blog-writer-comments.png)
+![blog-writer-drafts](./documentation/screenshots/blog-writer-drafts.png)
+![blog-writer-edit-post](./documentation/screenshots/blog-writer-edit-post.png)
+
+### Online Documentation
+
+![Documentation 1](./documentation/screenshots/doc-1.png)
+![Documentation 2](./documentation/screenshots/doc-2.png)
+![Documentation 3](./documentation/screenshots/doc-3.png)
+![Documentation 4](./documentation/screenshots/doc-4.png)
+![Documentation 5](./documentation/screenshots/doc-5.png)
+![Documentation 6](./documentation/screenshots/doc-6.png)
+
 ### Deployment
 
 The application is deployed using the following services:
